@@ -1,0 +1,15 @@
+[package]
+name = "Decentralized-Freelanc-Marketplace"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule='0xb000b0ad4bd532e7c46bc9e3f208783f4cbd1098c9af6981f5bac43cfbab2a38'
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
