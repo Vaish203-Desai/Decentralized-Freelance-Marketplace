@@ -46,11 +46,9 @@ Planned enhancements for future versions:
 ## **Deployed Contract Address**
 
 0xdbb13c8107cfc801cc2be1c8cdd5b16cabfac162858e53a775eb2e759b2001f2
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a5a814fe-b8f0-45c8-8833-57a9f764a1ed" />
 
-0xb000b0ad4bd532e7c46bc9e3f208783f4cbd1098c9af6981f5bac43cfbab2a38
-
-*(Replace with actual on-chain deployment address after publishing.)*
 
 ---
 
