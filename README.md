@@ -51,5 +51,3 @@ Planned enhancements for future versions:
 
 
 ---
-
-Do you want me to also **add a transaction flow diagram** showing how funds move between the client, escrow, and freelancer? That would make this README even clearer for developers and non-developers.
